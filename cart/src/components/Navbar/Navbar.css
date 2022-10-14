@@ -1,0 +1,10 @@
+.navbar-collapse{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 0 1rem 0 0;
+}
